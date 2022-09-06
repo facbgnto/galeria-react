@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/galeria-react/static/css/main.f8551c94.css",
-    "main.js": "/galeria-react/static/js/main.0fbdf546.js",
+    "main.css": "/galeria-react/static/css/main.a0f67e9a.css",
+    "main.js": "/galeria-react/static/js/main.ee6e252f.js",
     "static/js/787.73399d29.chunk.js": "/galeria-react/static/js/787.73399d29.chunk.js",
     "static/media/fondo2.jpg": "/galeria-react/static/media/fondo2.761422e50e8747bb0bc0.jpg",
     "static/media/logo.svg": "/galeria-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/galeria-react/index.html",
-    "main.f8551c94.css.map": "/galeria-react/static/css/main.f8551c94.css.map",
-    "main.0fbdf546.js.map": "/galeria-react/static/js/main.0fbdf546.js.map",
+    "main.a0f67e9a.css.map": "/galeria-react/static/css/main.a0f67e9a.css.map",
+    "main.ee6e252f.js.map": "/galeria-react/static/js/main.ee6e252f.js.map",
     "787.73399d29.chunk.js.map": "/galeria-react/static/js/787.73399d29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8551c94.css",
-    "static/js/main.0fbdf546.js"
+    "static/css/main.a0f67e9a.css",
+    "static/js/main.ee6e252f.js"
   ]
 }
