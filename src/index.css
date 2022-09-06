@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #ccc;
+
+  background-image: url("/src/assets/img/fondo2.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#cards{
+    padding: 0px 5%;
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 45px
 }
